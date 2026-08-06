@@ -1,0 +1,16 @@
+{
+  "name": "dotmuncher-95",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A 1995-flavoured maze game: a floppy disk collects bits while four viruses chase it.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2"
+  }
+}
