@@ -21,8 +21,8 @@ export const LOOP_SPEEDUP = 0.6;
 // Timings in seconds.
 export const POWER_TIME = 7;
 export const POWER_WARN_TIME = 2;
-export const SCATTER_TIME = 7;
-export const CHASE_TIME = 20;
+export const SCATTER_TIME = 6;
+export const CHASE_TIME = 22;
 export const READY_TIME = 2;
 export const DEATH_TIME = 1.5;
 export const CLEAR_TIME = 2.4;
