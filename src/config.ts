@@ -41,7 +41,7 @@ export const SCORE_VIRUS = [200, 400, 800, 1600];
 
 export const COLORS = {
   floor: '#000000',
-  wall: '#7c7c7c',
+  wall: '#8a8a8a',
   wallLight: '#dedede',
   wallDark: '#383838',
   wallFlash: '#e8e8e8',
