@@ -6,6 +6,7 @@ export const HUD_BOTTOM_TILES = 1;
 export const FIXED_DT = 1 / 60;
 export const MAX_STEPS_PER_FRAME = 5;
 export const ROM_ID = "A3D9";
+export const BUILD_TAG = "Q7VR";
 
 export const START_LIVES = 3;
 export const EXTRA_LIFE_AT = 10000;
@@ -31,7 +32,7 @@ export const VIRUS_RELEASE_TIMES = [0, 2, 4.5, 7];
 export const VIRUS_RESPAWN_DELAY = 1;
 
 // How often each virus ignores its target and takes a random turn (0..1).
-export const RANDOM_TURN_CHANCE = [0, 0.25, 0.65, 0.35];
+export const RANDOM_TURN_CHANCE = [0, 0.2, 0.6, 0.35];
 // Which corner each virus retreats to while scattering: 0 TL, 1 TR, 2 BL, 3 BR.
 export const SCATTER_CORNER = [1, 0, 3, 2];
 
