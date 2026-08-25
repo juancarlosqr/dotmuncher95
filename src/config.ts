@@ -38,7 +38,7 @@ export const SCATTER_CORNER = [1, 0, 3, 2];
 
 export const SCORE_BIT = 10;
 export const SCORE_POWER_BIT = 50;
-export const SCORE_VIRUS = [200, 400, 800, 1600];
+export const SCORE_VIRUS = [200, 400, 800, 1500];
 
 export const COLORS = {
   floor: '#000000',
