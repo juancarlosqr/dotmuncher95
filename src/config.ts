@@ -9,7 +9,7 @@ export const ROM_ID = "A3D9";
 export const BUILD_TAG = "Q7VR";
 
 export const START_LIVES = 3;
-export const EXTRA_LIFE_AT = 10000;
+export const EXTRA_LIFE_AT = 12000;
 
 // Speeds are in tiles per second.
 export const PLAYER_SPEED = 6.4;
