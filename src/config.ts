@@ -5,7 +5,7 @@ export const HUD_TOP_TILES = 2;
 export const HUD_BOTTOM_TILES = 1;
 export const FIXED_DT = 1 / 60;
 export const MAX_STEPS_PER_FRAME = 5;
-export const ROM_ID = "A3D9";
+export const ROM_ID = "A3E0";
 export const BUILD_TAG = "Q7VR";
 
 export const START_LIVES = 3;
