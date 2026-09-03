@@ -14,7 +14,7 @@ export const EXTRA_LIFE_AT = 12000;
 // Speeds are in tiles per second.
 export const PLAYER_SPEED = 6.4;
 export const VIRUS_SPEED = 5.4;
-export const VIRUS_FRIGHT_SPEED = 3.4;
+export const VIRUS_FRIGHT_SPEED = 3.2;
 export const VIRUS_EYES_SPEED = 12;
 export const TUNNEL_SLOWDOWN = 0.5;
 export const LOOP_SPEEDUP = 0.6;
