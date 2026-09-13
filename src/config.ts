@@ -17,7 +17,7 @@ export const VIRUS_SPEED = 5.4;
 export const VIRUS_FRIGHT_SPEED = 3.2;
 export const VIRUS_EYES_SPEED = 13;
 export const TUNNEL_SLOWDOWN = 0.5;
-export const LOOP_SPEEDUP = 0.6;
+export const LOOP_SPEEDUP = 0.5;
 
 // Timings in seconds.
 export const POWER_TIME = 7;
