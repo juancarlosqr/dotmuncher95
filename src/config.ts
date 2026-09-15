@@ -59,7 +59,7 @@ export const COLORS = {
 
 export const VIRUS_COLORS = ['#ff4040', '#40ffb0', '#ff80e0', '#ffa640'];
 export const VIRUS_NAMES = ['Trojan', 'Worm', 'Hopper', 'Spam'];
-export const VIRUS_TAGLINES = ['HUNTS YOU DOWN', 'CUTS YOU OFF', 'BOUNCES AROUND', 'CHASES FROM AFAR'];
+export const VIRUS_TAGLINES = ['HUNTS YOU DOWN', 'CUTS YOU OFF AT THE PASS', 'BOUNCES AROUND', 'CHASES FROM AFAR'];
 
 /*
  * Level legend
