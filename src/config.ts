@@ -6,11 +6,11 @@ export const HUD_BOTTOM_TILES = 1;
 export const FIXED_DT = 1 / 60;
 export const MAX_STEPS_PER_FRAME = 5;
 export const ROM_ID = "A3E0";
-export const BUILD_TAG = "Q7VR";
 
 export const START_LIVES = 3;
 export const EXTRA_LIFE_AT = 12000;
 
+// ---- movement
 // Speeds are in tiles per second.
 export const PLAYER_SPEED = 6.4;
 export const VIRUS_SPEED = 5.4;
@@ -19,6 +19,7 @@ export const VIRUS_EYES_SPEED = 13;
 export const TUNNEL_SLOWDOWN = 0.5;
 export const LOOP_SPEEDUP = 0.5;
 
+// ---- timing
 // Timings in seconds.
 export const POWER_TIME = 7;
 export const POWER_WARN_TIME = 2.2;
