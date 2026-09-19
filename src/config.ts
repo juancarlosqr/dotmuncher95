@@ -28,7 +28,7 @@ export const CHASE_TIME = 22;
 export const READY_TIME = 1.8;
 export const DEATH_TIME = 1.3;
 export const CLEAR_TIME = 2.2;
-export const EAT_FREEZE_TIME = 0.45;
+export const EAT_FREEZE_TIME = 0.4;
 export const VIRUS_RELEASE_TIMES = [0, 2, 4.5, 7];
 export const VIRUS_RESPAWN_DELAY = 1;
 
