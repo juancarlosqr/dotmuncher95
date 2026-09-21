@@ -30,7 +30,7 @@ export const DEATH_TIME = 1.3;
 export const CLEAR_TIME = 2.2;
 export const EAT_FREEZE_TIME = 0.4;
 export const VIRUS_RELEASE_TIMES = [0, 2, 4.5, 7];
-export const VIRUS_RESPAWN_DELAY = 1;
+export const VIRUS_RESPAWN_DELAY = 1.2;
 
 // How often each virus ignores its target and takes a random turn (0..1).
 export const RANDOM_TURN_CHANCE = [0, 0.2, 0.6, 0.35];
