@@ -35,7 +35,7 @@ export const VIRUS_RESPAWN_DELAY = 1.2;
 // How often each virus ignores its target and takes a random turn (0..1).
 export const RANDOM_TURN_CHANCE = [0, 0.2, 0.6, 0.35];
 // Which corner each virus retreats to while scattering: 0 TL, 1 TR, 2 BL, 3 BR.
-export const SCATTER_CORNER = [1, 0, 3, 2];
+export const SCATTER_CORNER = [1, 0, 2, 3];
 
 export const SCORE_BIT = 10;
 export const SCORE_POWER_BIT = 50;
