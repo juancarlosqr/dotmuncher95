@@ -4,7 +4,7 @@ export const TILE = 24;
 export const HUD_TOP_TILES = 2;
 export const HUD_BOTTOM_TILES = 1;
 export const FIXED_DT = 1 / 60;
-export const MAX_STEPS_PER_FRAME = 5;
+export const MAX_STEPS_PER_FRAME = 6;
 export const ROM_ID = "A3E0";
 
 export const START_LIVES = 3;
