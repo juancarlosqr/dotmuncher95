@@ -47,7 +47,7 @@ export const COLORS = {
   wallLight: '#dedede',
   wallDark: '#383838',
   wallFlash: '#e8e8e8',
-  door: '#ff9ad2',
+  door: '#ff8ac8',
   bit: '#ffe066',
   text: '#ffffff',
   dim: '#a0a0a0',
