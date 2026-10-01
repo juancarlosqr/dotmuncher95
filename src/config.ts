@@ -55,7 +55,7 @@ export const COLORS = {
   playerShutter: '#c4c4c4',
   playerLabel: '#f4f4f4',
   frightened: '#2626a6',
-  frightenedFlash: '#e6e6ff',
+  frightenedFlash: '#f0f0ff',
 } as const;
 
 export const VIRUS_COLORS = ['#ff4040', '#40ffb0', '#ff80e0', '#ffa640'];
