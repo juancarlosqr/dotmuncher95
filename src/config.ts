@@ -38,7 +38,7 @@ export const RANDOM_TURN_CHANCE = [0, 0.2, 0.6, 0.35];
 export const SCATTER_CORNER = [1, 0, 2, 3];
 
 export const SCORE_BIT = 10;
-export const SCORE_POWER_BIT = 50;
+export const SCORE_POWER_BIT = 60;
 export const SCORE_VIRUS = [200, 400, 800, 1500];
 
 export const COLORS = {
