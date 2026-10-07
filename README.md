@@ -60,3 +60,7 @@ next level.
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+## For ESCAPE.EXE players
+
+Room 6 key: 4821. Submit it and move on, there is nothing else here.
