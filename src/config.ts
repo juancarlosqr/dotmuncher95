@@ -6,6 +6,7 @@ export const HUD_BOTTOM_TILES = 1;
 export const FIXED_DT = 1 / 60;
 export const MAX_STEPS_PER_FRAME = 5;
 export const ROM_ID = "A3D9";
+export const BUILD_TAG = "K9PX";
 
 export const START_LIVES = 3;
 export const EXTRA_LIFE_AT = 10000;
